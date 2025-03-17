@@ -19,7 +19,10 @@ const recipes = [
 "sea salt and freshly ground black pepper, to taste ",
 
     ],
-    instructions: "1. Preheat the oven to 220°C. Halve the butternut and scoop out the seeds. 2. Brush with a little oil, sprinkle over the butternut seasoning and roast for 30–40 minutes, or until soft and golden brown. 3. To make the sauce, melt the margarine in a saucepan over a low heat. Add the flour and mix to form a roux. Add a little milk and whisk until smooth. Add the remaining milk and whisk until thick and smooth. Season to taste. 4. Sauté the Swiss chard in a drop of oil until wilted, then add corn and white sauce and warm through. Add half the cheese, season and remove from the heat. 5. Fill the roast butternut with the creamed spinach-and-corn mixture and top with the remaining cheese. Grill in the oven until bubbling."
+    instructions: ["Preheat the oven to 220°C. Halve the butternut and scoop out the seeds.", 
+    "Brush with a little oil, sprinkle over the butternut seasoning and roast for 30–40 minutes, or until soft and golden brown.",
+    "To make the sauce, melt the margarine in a saucepan over a low heat. Add the flour and mix to form a roux. Add a little milk and whisk until smooth. Add the remaining milk and whisk until thick and smooth. Season to taste.",
+    "Sauté the Swiss chard in a drop of oil until wilted, then add corn and white sauce and warm through. Add half the cheese, season and remove from the heat. 5. Fill the roast butternut with the creamed spinach-and-corn mixture and top with the remaining cheese. Grill in the oven until bubbling.",]
 
    },
   {
@@ -42,7 +45,12 @@ const recipes = [
       "180 g tub Woolworths hummus",
       "sea salt and freshly ground black pepper, to taste",
     ],
-    instructions: "1. Sauté the onion and garlic in a little olive oil. 2. Add the sausage and brown over a high heat for 5 minutes. 3. Add the canned and fresh tomatoes to an ovenproof dish and tip in the browned sausage meat. Season with salt and pepper. 4. Bake at 180°C for 10 minutes, or until softened and slightly reduced. 5. Make small hollows in the sauce using the back of a spoon, then crack 1–2 eggs per person into the hollows. Season, then return to the oven for 7–10 minutes or until the eggs are jammy. 6. Garnish with the parsley and serve with the naan and hummus."
+    instructions: ["Sauté the onion and garlic in a little olive oil.",
+       "Add the sausage and brown over a high heat for 5 minutes", 
+       "Add the canned and fresh tomatoes to an ovenproof dish and tip in the browned sausage meat. Season with salt and pepper.", 
+       "Bake at 180°C for 10 minutes, or until softened and slightly reduced.", 
+       "Make small hollows in the sauce using the back of a spoon, then crack 1–2 eggs per person into the hollows. Season, then return to the oven for 7–10 minutes or until the eggs are jammy.",
+       "Garnish with the parsley and serve with the naan and hummus.",]
 
   },
 
@@ -64,7 +72,15 @@ const recipes = [
       "sea salt and freshly ground black pepper, to taste",
    
     ],
-    instructions: "1. To make the harissa-marinated tomatoes, heat the oil in a pan over a medium heat. Add the tomatoes and cook until they just start to burst. 2. Remove the tomatoes from the pan and place in a bowl with the harissa paste and vinegar. Season to taste. Mix and set aside to marinate. 3. Preheat the oven to 180°C and line a baking tray with baking paper. 4. Lay a sheet of phyllo pastry on a clean work surface with the long side facing you. Brush the pastry with butter, then start folding the pastry, overlapping and crimping as you would if you were making a fan out of paper. 5. Roughly roll to form a nest shape and place on the baking sheet. Repeat with 5 more sheets of pastry. 6. Cut out squares to fit inside the nests using the remaining sheet of pastry, then brush the insides with butter and sprinkle over the sesame seeds. Place in the oven for 5–7 minutes to brown and set the pastry. 7. Remove the tray from the oven and crack an egg into each nest, then return the tray to the oven and bake for a further 10 minutes, or just until the egg whites have set. If you prefer harder eggs, bake for a further 2 minutes. 8. Remove the phyllo nests from the tray and top with the tomatoes and serve immediately or at room temperature."
+    instructions:[
+      "To make the harissa-marinated tomatoes, heat the oil in a pan over a medium heat. Add the tomatoes and cook until they just start to burst.",
+       "Remove the tomatoes from the pan and place in a bowl with the harissa paste and vinegar. Season to taste. Mix and set aside to marinate.",
+       "Preheat the oven to 180°C and line a baking tray with baking paper.", 
+       "Lay a sheet of phyllo pastry on a clean work surface with the long side facing you. Brush the pastry with butter, then start folding the pastry, overlapping and crimping as you would if you were making a fan out of paper.",
+        "Roughly roll to form a nest shape and place on the baking sheet. Repeat with 5 more sheets of pastry. 6. Cut out squares to fit inside the nests using the remaining sheet of pastry, then brush the insides with butter and sprinkle over the sesame seeds. Place in the oven for 5–7 minutes to brown and set the pastry.",
+        "Remove the tray from the oven and crack an egg into each nest, then return the tray to the oven and bake for a further 10 minutes, or just until the egg whites have set. If you prefer harder eggs, bake for a further 2 minutes.",
+         "Remove the phyllo nests from the tray and top with the tomatoes and serve immediately or at room temperature.",
+    ]
   },
 
   {
@@ -89,7 +105,7 @@ const recipes = [
 "icing sugar",
 
     ],
-    instructions: " 1. Add the oil, milk and eggs to a measuring jug and whisk until combined. 2. Place the flapjack/pancake mix, caster sugar and ground cinnamon in a large mixing bowl. Make a well in the centre and add the egg mixture. Whisk together until no lumps remain. Let the batter rest for 15 minutes. 3. Heat a pan over medium heat and melt the butter. Pour in a third of the batter and let it sit undisturbed for 2–3 minutes. 4. One the pancake starts solidifying, use a spatula or wooden spoon to “scramble” the half-cooked pancake batter, breaking it into little pieces as it cooks. This should take about 5 minutes. Add another third of the batter as well as the cinnamon and sugar, letting it caramelise in the pan and coat the scramble. After another 5 minutes, repeat the process with the remaining batter. 5. Serve the pancakes with berries and cream or bananas and maple syrup, or simply dust with icing sugar. "
+    instructions:[ "Add the oil, milk and eggs to a measuring jug and whisk until combined.", "Place the flapjack/pancake mix, caster sugar and ground cinnamon in a large mixing bowl. Make a well in the centre and add the egg mixture. Whisk together until no lumps remain. Let the batter rest for 15 minutes.", "Heat a pan over medium heat and melt the butter. Pour in a third of the batter and let it sit undisturbed for 2–3 minutes.", "One the pancake starts solidifying, use a spatula or wooden spoon to “scramble” the half-cooked pancake batter, breaking it into little pieces as it cooks. This should take about 5 minutes. Add another third of the batter as well as the cinnamon and sugar, letting it caramelise in the pan and coat the scramble. After another 5 minutes, repeat the process with the remaining batter.", "Serve the pancakes with berries and cream or bananas and maple syrup, or simply dust with icing sugar.",]
   },
 
   {
@@ -126,7 +142,7 @@ const recipes = [
 "fresh herbs, for serving",
 "flatbreads, for serving",
 ],
-    instructions: " 1. To make the hummus, soak the chickpeas overnight, then drain and boil in fresh water until tender. Place in a blender with the remaining ingredients and blend until smooth. Add cold water to thin out the mixture if necessary. 2. To make the cashew nut cream, place the cashews in a glass bowl, cover with water, and soak for at least 2 hours. Transfer the nuts and most of the water to a blender, add a pinch of salt, and blend until smooth. Add more water if necessary. 3. To make the paprika oil, gently heat the olive oil in a pan, add the garlic and fry slowly for 2 minutes to maximise the flavour. Take care not to burn the garlic. Add the paprika and season, then fry gently for a further 2 minutes. Remove from the heat, and set aside to cool and infuse. 4. Roast the beetroot and carrots at 200°C for 20 minutes until tender (but not overcooked). Fry the mushrooms and onions in a little olive oil, and season to taste. Halve the cherry tomatoes. 5. Spread the hummus onto a large serving plate and top with the beetroot, carrots, cherry tomatoes, and mushrooms and onions. Drizzle with the cashew nut cream and paprika oil, and garnish with fresh herbs. Serve with the flatbreads."
+    instructions: ["To make the hummus, soak the chickpeas overnight, then drain and boil in fresh water until tender. Place in a blender with the remaining ingredients and blend until smooth. Add cold water to thin out the mixture if necessary.", "To make the cashew nut cream, place the cashews in a glass bowl, cover with water, and soak for at least 2 hours. Transfer the nuts and most of the water to a blender, add a pinch of salt, and blend until smooth. Add more water if necessary.", "To make the paprika oil, gently heat the olive oil in a pan, add the garlic and fry slowly for 2 minutes to maximise the flavour. Take care not to burn the garlic. Add the paprika and season, then fry gently for a further 2 minutes. Remove from the heat, and set aside to cool and infuse.", "Roast the beetroot and carrots at 200°C for 20 minutes until tender (but not overcooked). Fry the mushrooms and onions in a little olive oil, and season to taste. Halve the cherry tomatoes.", "Spread the hummus onto a large serving plate and top with the beetroot, carrots, cherry tomatoes, and mushrooms and onions. Drizzle with the cashew nut cream and paprika oil, and garnish with fresh herbs. Serve with the flatbreads.",]
   },
 
   {
@@ -148,7 +164,7 @@ const recipes = [
 "fresh coriander, for serving",
 
     ],
-    instructions: "1 Heat the olive oil in a pan and add the paprika. Fry the eggs until crispy, then season with salt. 2 Heat the chakalaka or leave at room temperature, then spoon over the ciabatta. Top with a crispy fried egg and serve with the nut-and-seed sprinkle, chilli, feta and fresh coriander.  "
+    instructions:[ "Heat the olive oil in a pan and add the paprika. Fry the eggs until crispy, then season with salt.", "Heat the chakalaka or leave at room temperature, then spoon over the ciabatta. Top with a crispy fried egg and serve with the nut-and-seed sprinkle, chilli, feta and fresh coriander.",]
   },
 
   {
@@ -168,7 +184,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Preheat the oven to 180°C. Roast the sweet potato for 30–45 minutes, or until soft. Allow to cool. 2. Blend all the ingredients except the flour until smooth. Pour the mixture into a mixing bowl and slowly fold in the flour. 3. Drizzle a touch of coconut oil into a pan (you really don’t want a lot here). Dollop the mixture into the pan and spread to your desired size. Only turn once you can see or feel the bottom turn thick and solid. "
+    instructions: ["Preheat the oven to 180°C. Roast the sweet potato for 30–45 minutes, or until soft. Allow to cool.", "Blend all the ingredients except the flour until smooth. Pour the mixture into a mixing bowl and slowly fold in the flour.", "Drizzle a touch of coconut oil into a pan (you really don’t want a lot here). Dollop the mixture into the pan and spread to your desired size. Only turn once you can see or feel the bottom turn thick and solid.",]
   },
 
   {
@@ -192,7 +208,7 @@ const recipes = [
 "25 g fresh coconut, grated (optional)",
 
     ],
-    instructions: " 1. Place the oats, grated apple, cacao powder and salt in a bowl. Stir through the coconut and almond milk. Cover and chill for several hours or overnight. 2. Heat the butter and 2 T honey in a pan, then place the bananas in the pan cut side down. Allow to caramelise, then remove from the pan. 3. Divide the muesli between 2 bowls. Stir through the macadamia butter and remaining honey. Top with the caramelised bananas, hazelnuts and coconut. "
+    instructions: ["Place the oats, grated apple, cacao powder and salt in a bowl. Stir through the coconut and almond milk. Cover and chill for several hours or overnight.", "Heat the butter and 2 T honey in a pan, then place the bananas in the pan cut side down. Allow to caramelise, then remove from the pan.", "Divide the muesli between 2 bowls. Stir through the macadamia butter and remaining honey. Top with the caramelised bananas, hazelnuts and coconut.",]
   },
 
   {
@@ -202,7 +218,6 @@ const recipes = [
     image: "/images/Dark-green-quiche.jpg",
     
     ingredients: [
-      "For the aïoli:",
 "1 free-range egg yolk",
 "½ t Dijon mustard",
 "1 lemon, juiced",
@@ -211,14 +226,12 @@ const recipes = [
 "3 cloves garlic, minced",
 "sea salt and freshly ground black pepper, to taste",
 
-"For the pastry:",
 "360 g flour",
 "1 free-range egg",
 "150 g butter",
 "100 g Cheddar, grated",
 "500 g dried beans, for blind-baking",
 
-"For the filling:",
 "3 T extra virgin olive oil",
 "100 g baby leeks",
 "2 cloves garlic, crushed",
@@ -231,7 +244,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. To make the aïoli, place the egg yolk, mustard and lemon juice in a bowl and whisk to combine. Add the olive oil a little at a time while whisking, until the mixture thickens and becomes pale. Crumble in the Gorgonzola, add the garlic and seasoning, and continue whisking until the mixture is smooth-ish. Refrigerate until ready to use. 2. To make the pastry, knead all the ingredients except the beans together until a dough forms. Shape into a ball, cover in clingwrap and refrigerate for 1 hour. 3. Preheat the oven to 180°C. Remove the chilled dough from the fridge, and roll it out to a thickness of 1 cm on a floured surface. Spray a 20 cm springform cake tin with cooking spray, then carefully place the pastry in the tin, pushing it in gently to form the base. Line the pastry with greaseproof paper and add the dried beans. Bake for 5–7 minutes, then remove the beans and paper and bake for a further 10 minutes. Remove from the oven and set aside until ready to use. 4. Place a pan over a medium heat and add the olive oil. Fry the leeks for 5 minutes or until soft and translucent, then stir in the garlic and fry for a further 2 minutes. Add the kale and fry until slightly softened. Season to taste. 5. Transfer the kale mixture to a blender, add the water and blend until smooth. 6. Crack the eggs into a mixing bowl and pour in the cream, then whisk until combined. Add the kale purée and whisk again until combined. Pour the mixture into the pastry shell and bake at 180°C for 30 minutes, or until the quiche is cooked through. Allow the quiche to cool slightly before slicing. Dollop over the Gorgonzola aïoli, and serve either warm or at room temperature. "
+    instructions: ["To make the aïoli, place the egg yolk, mustard and lemon juice in a bowl and whisk to combine. Add the olive oil a little at a time while whisking, until the mixture thickens and becomes pale. Crumble in the Gorgonzola, add the garlic and seasoning, and continue whisking until the mixture is smooth-ish. Refrigerate until ready to use.", "To make the pastry, knead all the ingredients except the beans together until a dough forms. Shape into a ball, cover in clingwrap and refrigerate for 1 hour.", "Preheat the oven to 180°C. Remove the chilled dough from the fridge, and roll it out to a thickness of 1 cm on a floured surface. Spray a 20 cm springform cake tin with cooking spray, then carefully place the pastry in the tin, pushing it in gently to form the base. Line the pastry with greaseproof paper and add the dried beans. Bake for 5–7 minutes, then remove the beans and paper and bake for a further 10 minutes. Remove from the oven and set aside until ready to use.", "Place a pan over a medium heat and add the olive oil. Fry the leeks for 5 minutes or until soft and translucent, then stir in the garlic and fry for a further 2 minutes. Add the kale and fry until slightly softened. Season to taste.", "Transfer the kale mixture to a blender, add the water and blend until smooth.", "Crack the eggs into a mixing bowl and pour in the cream, then whisk until combined. Add the kale purée and whisk again until combined. Pour the mixture into the pastry shell and bake at 180°C for 30 minutes, or until the quiche is cooked through. Allow the quiche to cool slightly before slicing. Dollop over the Gorgonzola aïoli, and serve either warm or at room temperature.",]
   },
 
   {
@@ -254,7 +267,7 @@ const recipes = [
 "Biscoff biscuit spread, melted, to serve (optional)",
 
     ],
-    instructions: "1. Preheat the air fryer to 180°C. 2. Blitz all the ingredients, apart from the chocolate chips, in a mini blender or food processor, then pour into a small greased baking dish measuring about 14 × 10 cm (51/2 × 4 inches), or two smaller individual dishes. 3. Scatter over the chocolate chips, then cook in the air fryer drawer for 8 minutes. I like to finish mine with a drizzle of melted Biscoff spread. "
+    instructions: ["Preheat the air fryer to 180°C.", "Blitz all the ingredients, apart from the chocolate chips, in a mini blender or food processor, then pour into a small greased baking dish measuring about 14 × 10 cm (51/2 × 4 inches), or two smaller individual dishes.", "Scatter over the chocolate chips, then cook in the air fryer drawer for 8 minutes. I like to finish mine with a drizzle of melted Biscoff spread.",]
   },
 
   {
@@ -273,7 +286,7 @@ const recipes = [
 "brown sugar, for serving",
 
     ],
-    instructions: " 1. Using a wooden spoon, stir the maize meal, salt and cold water in a medium saucepan until any lumps have dissolved. 2. Add the milk and boiling water and stir until combined. Place over a high heat and stir until the mixture starts to boil and turns creamy. Take care that the porridge doesn’t splatter, it burns! Keep stirring for 5 minutes. 3. Turn off the heat, cover with a lid and steam for 5 minutes. Transfer to serving bowls, dot with butter and sprinkle generously with sugar. "
+    instructions: ["Using a wooden spoon, stir the maize meal, salt and cold water in a medium saucepan until any lumps have dissolved.", "Add the milk and boiling water and stir until combined. Place over a high heat and stir until the mixture starts to boil and turns creamy. Take care that the porridge doesn’t splatter, it burns! Keep stirring for 5 minutes.", "Turn off the heat, cover with a lid and steam for 5 minutes. Transfer to serving bowls, dot with butter and sprinkle generously with sugar.",]
   },
 
   {
@@ -295,7 +308,7 @@ const recipes = [
 "sesame seeds, for serving",
 
     ],
-    instructions: " 1. Heat half the sesame oil in a large wok or heavy-based pan over a high heat. Toss the tofu through the hot oil for 2–3 minutes to crisp. Drain on kitchen paper. 2. In a large salad bowl, massage half the soya sauce into the kale for 2 minutes. 3. Toss the tofu and vegetables, then add the nori sheets. 4. Mix the remaining sesame oil and soya sauce with the rice wine vinegar and pour over the salad. 5. Top with the ginger and sesame seeds. "
+    instructions: ["Heat half the sesame oil in a large wok or heavy-based pan over a high heat. Toss the tofu through the hot oil for 2–3 minutes to crisp. Drain on kitchen paper.", "In a large salad bowl, massage half the soya sauce into the kale for 2 minutes.", "Toss the tofu and vegetables, then add the nori sheets.", "Mix the remaining sesame oil and soya sauce with the rice wine vinegar and pour over the salad.", "Top with the ginger and sesame seeds.",]
   },
 
   {
@@ -320,7 +333,6 @@ const recipes = [
 "400 g Woolworths multi-seed rye bread, sliced",
 "1 Mediterranean cucumber, peeled and thinly sliced",
 
-"For the mayonnaise:",
 "2 free-range egg yolks",
 "1 t Dijon mustard",
 "1 t honey",
@@ -328,7 +340,7 @@ const recipes = [
 "sea salt and freshly ground black pepper, to taste",
 "2 cup canola oil",
     ],
-    instructions: " 1. Preheat the oven to 180°C. Place the herbs, lemon juice and zest, garlic, seasoning and olive oil in a bowl and combine to make a marinade. 2. Place the chicken breasts in the marinade and rub thoroughly, then place on a baking sheet. Cover the chicken with tin foil and roast for 20–25 minutes, or until cooked through but still succulent. Remove the foil and lightly shred the chicken using two forks. Mix with the mayonnaise and add the remaining ingredients, except the bread and cucumber. 3. To serve, spoon the chicken mayo onto a platter and top with the gherkins. Serve with the bread and cucumber. 4 To make the mayonnaise, place the egg yolks, mustard, honey, lemon juice and seasoning in a blender and pulse to combine. While blending, gradually pour in the oil in a thin stream until the mixture is thick and pale. Check the seasoning. "
+    instructions: ["Preheat the oven to 180°C. Place the herbs, lemon juice and zest, garlic, seasoning and olive oil in a bowl and combine to make a marinade.", "Place the chicken breasts in the marinade and rub thoroughly, then place on a baking sheet. Cover the chicken with tin foil and roast for 20–25 minutes, or until cooked through but still succulent. Remove the foil and lightly shred the chicken using two forks. Mix with the mayonnaise and add the remaining ingredients, except the bread and cucumber.", "To serve, spoon the chicken mayo onto a platter and top with the gherkins. Serve with the bread and cucumber.", "To make the mayonnaise, place the egg yolks, mustard, honey, lemon juice and seasoning in a blender and pulse to combine. While blending, gradually pour in the oil in a thin stream until the mixture is thick and pale. Check the seasoning.",]
   },
 
   {
@@ -362,7 +374,7 @@ const recipes = [
   
 
     ],
-    instructions: " 1. To make the falafel, blend all ingredients together except the salt. Season. Roll into balls or small sausage shapes and chill for 30 minutes. 2. Preheat the air-fryer to 180°C. Place the falafel in the basket in batches and cook each batch for 13 minutes.3. To make the slaw, blend the chickpea brine with the garlic, mint and lemon juice. Slowly drizzle in the olive oil while blending. The mixture will thicken gradually. Toss a few spoons into the sauerkraut and kale. Store in a sealed jar in the fridge for up to a week. Serve with the slaw and lemon wedges. Cook's note: If you don’t have an air-fryer, bake the falafel on a lined baking tray for 20 minutes at 180°C, or fry in hot oil until golden brown. "
+    instructions: ["To make the falafel, blend all ingredients together except the salt. Season. Roll into balls or small sausage shapes and chill for 30 minutes.", "Preheat the air-fryer to 180°C. Place the falafel in the basket in batches and cook each batch for 13 minutes.", "To make the slaw, blend the chickpea brine with the garlic, mint and lemon juice. Slowly drizzle in the olive oil while blending. The mixture will thicken gradually. Toss a few spoons into the sauerkraut and kale. Store in a sealed jar in the fridge for up to a week.", "Serve with the slaw and lemon wedges.", "Cook's note: If you don’t have an air-fryer, bake the falafel on a lined baking tray for 20 minutes at 180°C, or fry in hot oil until golden brown.",]
   },
 
   {
@@ -373,7 +385,7 @@ const recipes = [
     
     ingredients: [
 
-      "For the patties:",
+      
 "100 g Woolworths barley and spelt mix",
 "250 g Kara orange sweet potato, peeled and cubed",
 "50 g large brown mushrooms, roughly chopped",
@@ -384,7 +396,7 @@ const recipes = [
 "Salt and pepper, to taste",
 "60 ml sunflower oil, for frying",
 
-"To serve:",
+
 "4 gluten-free multi-seed bread rolls, slices in half",
 "100 g Woolworths vegan mayo",
 "1 large tomato, thinly sliced",
@@ -394,7 +406,7 @@ const recipes = [
 "1 packet Woolworths seed sprinkle",
 "Fried brinjal slices (optional)",
     ],
-    instructions: " 1. Preheat the oven to 200°C. 2. Rub the sweet potato with the chermoula spice mix and a bit of oil and place on a baking sheet. Roast the sweet potato for 20-25 minutes, or until the sweet potato is soft and cooked through. 3. Place in a mixing bowl along with the barley and spelt mix, chopped mushrooms, breadcrumbs, fresh herbs, salt and pepper. Mix all the ingredients together until well combined and then shape into patties. 4. Heat a non-stick pan and add the oil. On a medium heat, fry the patties until crisp and golden brown. Cook the burgers in small batches to avoid the patties breaking, turning once. 5. To build the burgers, spread the vegan mayo on the inside of the rolls. Add a few lettuce leaves to the bottom slice along with tomato slices, onion marmalade, the cooked patty, a slice of the vegan cheese and topped with half an avocado, fanned. Sprinkle over some seed mix and top with the rest of the roll."
+    instructions: ["Preheat the oven to 200°C.", "Rub the sweet potato with the chermoula spice mix and a bit of oil and place on a baking sheet. Roast the sweet potato for 20-25 minutes, or until the sweet potato is soft and cooked through.", "Place in a mixing bowl along with the barley and spelt mix, chopped mushrooms, breadcrumbs, fresh herbs, salt and pepper.", "Mix all the ingredients together until well combined and then shape into patties.", "Heat a non-stick pan and add the oil. On a medium heat, fry the patties until crisp and golden brown. Cook the burgers in small batches to avoid the patties breaking, turning once.", "To build the burgers, spread the vegan mayo on the inside of the rolls. Add a few lettuce leaves to the bottom slice along with tomato slices, onion marmalade, the cooked patty, a slice of the vegan cheese and topped with half an avocado, fanned. Sprinkle over some seed mix and top with the rest of the roll.",]
   },
 
   {
@@ -415,7 +427,7 @@ const recipes = [
 "3 T flour",
 
     ],
-    instructions: "1. Preheat the oven to 180°C. Grease a muffin pan with nonstick cooking spray or butter and set aside. 2. In a large bowl, beat the eggs until smooth then add the cream, spring onion, spinach, red pepper, cottage cheese and Cheddar. Mix until well combined. 3. Sift the baking powder and flour into the egg mixture and mix until the flour is no longer visible. 4. Divide the mixture between the muffin cups and bake for 30–35 minutes. Remove from the oven and cool for about 15 minutes before removing from the pan.  "
+    instructions: ["Preheat the oven to 180°C. Grease a muffin pan with nonstick cooking spray or butter and set asid.", "In a large bowl, beat the eggs until smooth then add the cream, spring onion, spinach, red pepper, cottage cheese and Cheddar. Mix until well combined.", "Sift the baking powder and flour into the egg mixture and mix until the flour is no longer visible.", "Divide the mixture between the muffin cups and bake for 30–35 minutes. Remove from the oven and cool for about 15 minutes before removing from the pan.",]
   },
 
   {
@@ -433,7 +445,7 @@ const recipes = [
 "2 t sesame seeds (optional)",
 
     ],
-    instructions: " 1. Preheat the oven to 180°C. Grease a large baking and set aside. 2. In a mixing bowl, combine the Bolognese, frozen peas and sweetcorn. 3. Roll out the puff pastry and divide into 8 equal squares using a sharp knife. 4. Place a spoonful of the mince mixture onto one half of each square, fold over the other half and gently crimp the edges of the pastry with a fork to seal. Repeat with the remaining mince mixture and pastry. 5. In a small bowl, combine the honey and butter. Gently brush onto the pastry, sprinkle with sesame seeds and bake for 20–25 minutes until golden and the bottom of the pastry is cooked. "
+    instructions: ["Preheat the oven to 180°C. Grease a large baking and set aside.", "In a mixing bowl, combine the Bolognese, frozen peas and sweetcorn.", "Roll out the puff pastry and divide into 8 equal squares using a sharp knife.", "Place a spoonful of the mince mixture onto one half of each square, fold over the other half and gently crimp the edges of the pastry with a fork to seal. Repeat with the remaining mince mixture and pastry.", "In a small bowl, combine the honey and butter. Gently brush onto the pastry, sprinkle with sesame seeds and bake for 20–25 minutes until golden and the bottom of the pastry is cooked. ",]
   },
 
   {
@@ -459,7 +471,7 @@ const recipes = [
 "orange zest, to garnish",
 
     ],
-    instructions: " Preheat the oven to 200°C. Place the almonds in a roasting pan and drizzle with olive oil and coarse salt. Roast for 5 minutes, turning 2–3 times. Remove from the oven and drain on kitchen paper. Reduce the oven’s temperature to 180°C. Place the sweet potato in a baking dish add the red onions, garlic, cinnamon and orange juice and drizzle with a little more olive oil. Season to taste and mix well. Bake for about 40 minutes, stirring twice. Line a salad bowl with the baby spinach and rocket. Top with the sweet potatoes and pour over any juice from the baking dish. Crumble over the cheese, sprinkle with the roasted almonds and garnish with pomegranate rubies. "
+    instructions: ["Preheat the oven to 200°C.", "Place the almonds in a roasting pan and drizzle with olive oil and coarse salt. Roast for 5 minutes, turning 2–3 times.", "Remove from the oven and drain on kitchen paper.", "Reduce the oven’s temperature to 180°C.", "Place the sweet potato in a baking dish add the red onions, garlic, cinnamon and orange juice and drizzle with a little more olive oil. Season to taste and mix well.", "Bake for about 40 minutes, stirring twice.", "Line a salad bowl with the baby spinach and rocket. Top with the sweet potatoes and pour over any juice from the baking dish.", "Crumble over the cheese, sprinkle with the roasted almonds and garnish with pomegranate rubies.",]
   },
 
   {
@@ -479,7 +491,7 @@ const recipes = [
 "170 g Woolworths Light Meat Shredded Tuna,  drained",
 
     ],
-    instructions: " 1. Preheat the oven to 180C°. Remove the crusts from the bread and roll out thinly with a rolling pin. 2. Brush over melted butter on to each side and push into a non-stick muffin pan. Push the bread into the holes to line each hole and make a crust and make sure they are secure and there are no cracks for leaks to occur. 3. Prebake for 15 minutes until just toasted for the little quiche casings. 4. Meanwhile, make the filling by combining the milk and eggs and beat to incorporate. 5. Fill the little quiche crusts with tuna evenly between each one, and tomatoes. 6. Pour in the custard filling and top with grated cheese. Bake again for 15 – 20 minutes until the eggs are puffy and set. Leave to cool slightly before eating with basil pesto. "
+    instructions: ["Preheat the oven to 180C°.", "Remove the crusts from the bread and roll out thinly with a rolling pin.", "Brush over melted butter on to each side and push into a non-stick muffin pan. Push the bread into the holes to line each hole and make a crust and make sure they are secure and there are no cracks for leaks to occur.", "Prebake for 15 minutes until just toasted for the little quiche casings.", "Meanwhile, make the filling by combining the milk and eggs and beat to incorporate.", "Fill the little quiche crusts with tuna evenly between each one, and tomatoes.", "Pour in the custard filling and top with grated cheese. Bake again for 15 – 20 minutes until the eggs are puffy and set.", "Leave to cool slightly before eating with basil pesto.",]
   },
 
   {
@@ -497,7 +509,7 @@ const recipes = [
 "red onion, chopped, to garnish",
 
     ],
-    instructions: " Toast the wrap and stuff with the leftover stir-fry, drizzle with the dressing, top with sliced rotisserie chicken and sprinkle with coriander. Roll up tightly. "
+    instructions: ["Toast the wrap and stuff with the leftover stir-fry, drizzle with the dressing, top with sliced rotisserie chicken and sprinkle with coriander.", "Roll up tightly. ",]
   },
 
   {
@@ -517,7 +529,7 @@ const recipes = [
 "¼ cucumber, sliced ",
 
     ],
-    instructions: " 1. Mash the avocado and mayonnaise together and season to taste. 2. Generously spread the bread with the avo mayo. Top with the tuna, lettuce, tomato and cucumber and sandwich "
+    instructions: ["Mash the avocado and mayonnaise together and season to taste.", "Generously spread the bread with the avo mayo. Top with the tuna, lettuce, tomato and cucumber and sandwich.",]
   },
 
   {
@@ -543,7 +555,7 @@ const recipes = [
 "125 g packet Woolworths chakalaka flavoured crisps",
 
     ],
-    instructions: " 1. To make the roosterkoek rolls, mix the flour, salt and yeast in a bowl. Add the water and yoghurt and mix with your hands until the dough comes together. Cover the dough, not the bowl, with clingwrap and allow to prove for 1 hour. 2. Remove the dough from the bowl and place onto a floured surface. Sprinkle over a little more flour and shape the dough into a log. Cut the dough into 6 pieces, adding extra flour if it becomes too sticky. Braai over the coals for 15 minutes, turning frequently. Set aside. 3. Sauté the onions, ginger and garlic in the olive oil over a low heat for a about 10 minutes, or until soft and sweet. Add the tomatoes and sugar and simmer for a further 5 minutes, or until soft and sticky. 4. Cut the wors into 6 pieces and braai. 5. Slice open the rolls and spread with the butter. Add a handful of crushed chakalaka chips and a piece of wors. Dollop with the smoor and serve immediately. "
+    instructions: ["To make the roosterkoek rolls, mix the flour, salt and yeast in a bowl.", "Add the water and yoghurt and mix with your hands until the dough comes together.", "Cover the dough, not the bowl, with clingwrap and allow to prove for 1 hour.", "Remove the dough from the bowl and place onto a floured surface. Sprinkle over a little more flour and shape the dough into a log.", "Cut the dough into 6 pieces, adding extra flour if it becomes too sticky.", "Braai over the coals for 15 minutes, turning frequently. Set aside.", "Sauté the onions, ginger and garlic in the olive oil over a low heat for a about 10 minutes, or until soft and sweet. Add the tomatoes and sugar and simmer for a further 5 minutes, or until soft and sticky.", "Cut the wors into 6 pieces and braai.", "Slice open the rolls and spread with the butter. Add a handful of crushed chakalaka chips and a piece of wors. Dollop with the smoor and serve immediately. ",]
   },
 
   {
@@ -584,7 +596,7 @@ const recipes = [
  
 
     ],
-    instructions: " 1. To make the chicken, combine the lemon juice, oregano, garlic, cumin, coriander, paprika and olive oil and blend until smooth. Season with salt and pepper. 2. Place the chicken in a large Ziploc bag and add half the marinade. Seal the bag and marinate in the fridge for 1–4 hours. Place the remaining marinade in the fridge too. 3 Once the chicken has marinated, heat the canola oil in a heavy-based skillet or pan and add the chicken pieces, a few at a time. Cook each piece for 5–6 minutes on each side so that it is nicely browned and cooked through. 4. Place the cooked chicken on a cutting board and allow to rest for 5 minutes. Using a sharp knife, cut the chicken into bite-sized pieces and transfer to a bowl, adding the remainder of the marinade. Cover with clingfilm and chill while you make the rice and white sauce. 5. To make the rice, melt the butter in a saucepan over a medium heat. Add the cumin and turmeric and cook for 1 minute. Add the uncooked rice and stir until nicely toasted, about 4 minutes. Add the chicken stock and season. Increase the heat to high and bring the rice to a boil. Once boiling, reduce the heat, cover and simmer for 15 minutes. Remove from the heat and allow to stand, covered, for 15 minutes until the water is absorbed and the rice is cooked. 6. Shortly before serving, heat 1 T oil in the skillet or pan and return the chicken with all the marinade to the pan, stirring occasionally until heated through. 7. To serve, pile a bowl full of the fragrant rice, then top with the chicken and salad. Generously drizzle the white sauce (and the red sauce) over everything. "
+    instructions: ["To make the chicken, combine the lemon juice, oregano, garlic, cumin, coriander, paprika and olive oil and blend until smooth. Season with salt and pepper.", "Place the chicken in a large Ziploc bag and add half the marinade. Seal the bag and marinate in the fridge for 1–4 hours. Place the remaining marinade in the fridge too.", "Once the chicken has marinated, heat the canola oil in a heavy-based skillet or pan and add the chicken pieces, a few at a time. Cook each piece for 5–6 minutes on each side so that it is nicely browned and cooked through.", "Place the cooked chicken on a cutting board and allow to rest for 5 minutes.", "Using a sharp knife, cut the chicken into bite-sized pieces and transfer to a bowl, adding the remainder of the marinade. Cover with clingfilm and chill while you make the rice and white sauce.", "To make the rice, melt the butter in a saucepan over a medium heat. Add the cumin and turmeric and cook for 1 minute.", "Add the uncooked rice and stir until nicely toasted, about 4 minutes. Add the chicken stock and season.", "Increase the heat to high and bring the rice to a boil. Once boiling, reduce the heat, cover and simmer for 15 minutes.", "Remove from the heat and allow to stand, covered, for 15 minutes until the water is absorbed and the rice is cooked.", "Shortly before serving, heat 1 T oil in the skillet or pan and return the chicken with all the marinade to the pan, stirring occasionally until heated through.", "To serve, pile a bowl full of the fragrant rice, then top with the chicken and salad. Generously drizzle the white sauce (and the red sauce) over everything. ",]
   },
 
   {
@@ -605,7 +617,7 @@ const recipes = [
 "Parmesan, grated, for serving",
 
     ],
-    instructions: " 1. Heat a large saucepan and drizzle with olive oil. Cut the ends off the sausages, pinch bite-sized pieces of sausage meat from the casings and place into the pan. Cook in batches if necessary. Fry until golden and cooked through. Remove from the pan. 2. In the same pan, fry the mushrooms in more olive oil until golden, then deglaze the pan with the soya sauce. Add the cream. 3. Meanwhile, cook the pasta until al dente. Drain, reserving the pasta water. Add half a ladleful of the pasta water to the sauce and reduce until thickened. 4. Add the hot pasta and Brussels sprouts to the sauce and toss to coat, adding more pasta water if necessary. Top with the cooked sausage meat and serve with the Parmesan. "
+    instructions: ["Heat a large saucepan and drizzle with olive oil. Cut the ends off the sausages, pinch bite-sized pieces of sausage meat from the casings and place into the pan. Cook in batches if necessary.", "Fry until golden and cooked through. Remove from the pan.", "In the same pan, fry the mushrooms in more olive oil until golden, then deglaze the pan with the soya sauce.", "Add the cream.", "Meanwhile, cook the pasta until al dente. Drain, reserving the pasta water.", "Add half a ladleful of the pasta water to the sauce and reduce until thickened.", "Add the hot pasta and Brussels sprouts to the sauce and toss to coat, adding more pasta water if necessary.", "Top with the cooked sausage meat and serve with the Parmesan. ",]
   },
 
   {
@@ -625,7 +637,7 @@ const recipes = [
 "500 g penne, cooked al dente",
 
     ],
-    instructions: " 1. Melt the butter in a saucepan. 2. Whisk in the flour. 3. Gradually whisk the milk in and season 4. Add the bouquet garni and simmer very gently. Season with salt and pepper. 5. After about 5 minutes, remove the bouquet garni and whisk in the cheese. 6. Chop the spinach very finely or blitz in a blender until chunky. 7. Stir the raw spinach into the sauce. 8. Simmer for five minutes, then stir in the pasta. Serve immediately. "
+    instructions: ["Melt the butter in a saucepan.", "Whisk in the flour.", "Gradually whisk the milk in and season.", "Add the bouquet garni and simmer very gently. Season with salt and pepper.", "After about 5 minutes, remove the bouquet garni and whisk in the cheese.", "Chop the spinach very finely or blitz in a blender until chunky.", "Stir the raw spinach into the sauce.", "Simmer for five minutes, then stir in the pasta. Serve immediately. ",]
   },
 
   {
@@ -649,7 +661,7 @@ const recipes = [
 "salt, to taste",
 
     ],
-    instructions: " 1. Rinse the soaked samp thoroughly, then place in a saucepan with the water and bring to a boil. Reduce the heat and simmer for 11/2 hours, checking every 20 minutes to ensure it doesn’t burn. Add more water if necessary. Drain, rinse and set aside. 2. Melt the butter in a saucepan over a medium heat. Stir in the flour using a whisk or wooden spoon and cook for about 2 minutes, stirring continuously and ensuring it doesn’t burn or darken. 3. Slowly add the milk to the flour mixture, whisking continually to prevent lumps from forming. Continue whisking until the mixture is smooth and begins to thicken. 4. Once the sauce has thickened, reduce the heat and simmer for a few minutes, stirring occasionally. This allows the flour to cook completely. 5. Remove the pan from the heat and stir, then add the cream, Gruyère. and Parmesan and stir until melted. Ncasanisa (taste) and season the sauce with the nutmeg, white pepper and salt. 6. Combine the samp and cheese sauce, stirring, until the samp is evenly coated. Adjust the amount of sauce based on how saucy you’d like the dish to be. 7. Place the mixture into a baking dish and top with the mozzarella. Bake at 180℃ until browned, approximately 25 minutes. Serve with a side salad or, for meat lovers, as a tshisanyama side dish. "
+    instructions: ["Rinse the soaked samp thoroughly, then place in a saucepan with the water and bring to a boil.", "Reduce the heat and simmer for 11/2 hours, checking every 20 minutes to ensure it doesn’t burn. Add more water if necessary. Drain, rinse and set aside.", "Melt the butter in a saucepan over a medium heat. Stir in the flour using a whisk or wooden spoon and cook for about 2 minutes, stirring continuously and ensuring it doesn’t burn or darken.", "Slowly add the milk to the flour mixture, whisking continually to prevent lumps from forming. Continue whisking until the mixture is smooth and begins to thicken.", "Once the sauce has thickened, reduce the heat and simmer for a few minutes, stirring occasionally. This allows the flour to cook completely.", "Remove the pan from the heat and stir, then add the cream, Gruyère and Parmesan and stir until melted.", "Ncasanisa (taste) and season the sauce with the nutmeg, white pepper and salt.", "Combine the samp and cheese sauce, stirring, until the samp is evenly coated. Adjust the amount of sauce based on how saucy you’d like the dish to be.", "Place the mixture into a baking dish and top with the mozzarella. Bake at 180℃ until browned, approximately 25 minutes.", "Serve with a side salad or, for meat lovers, as a tshisanyama side dish. ",]
   },
 
   {
@@ -670,7 +682,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Braai the steaks over medium coals for about 2 minutes per side 2. To make the harissa cauliflower salad, mix the dressing, then toss with the cauliflower and celery. Serve with the hot steaks. "
+    instructions: ["Braai the steaks over medium coals for about 2 minutes per side.", "To make the harissa cauliflower salad, mix the dressing, then toss with the cauliflower and celery. Serve with the hot steaks. ",]
   },
 
   {
@@ -720,7 +732,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Heat the oil in a pan and fry the onion until soft. Add the garlic, ginger, turmeric, chilli, curry powder, Cajun spice and paprika and stir to combine. 2. Add the peppers and cook for 3 minutes, then add the carrots and fry over a low heat until the carrots are cooked. 3. Season and cook for 10 minutes, or until thick. 4. Remove from the heat and stir in the black beans. Allow to cool for 5 minutes, then add the atchar and coriander. "
+    instructions: ["Heat the oil in a pan and fry the onion until soft. Add the garlic, ginger, turmeric, chilli, curry powder, Cajun spice and paprika and stir to combine.", "Add the peppers and cook for 3 minutes, then add the carrots and fry over a low heat until the carrots are cooked.", "Season and cook for 10 minutes, or until thick.", "Remove from the heat and stir in the black beans. Allow to cool for 5 minutes, then add the atchar and coriander.",]
   },
 
   {
@@ -745,13 +757,12 @@ const recipes = [
 "200 g baby marrow, sliced into 2 cm rounds",
 "1 x 400 ml can butter beans",
 "fresh coriander, roughly chopped, for serving",
-"For the pap:",
 "3 cups water",
 "500 g maize meal",
 
 
     ],
-    instructions: " 1. Heat the oil in a large saucepan over a medium heat and sauté the onion until golden brown. Add the garlic, ginger, chilli, turmeric, curry leaves and curry paste and cook for 2 minutes. 2. Add the sweet potatoes, Apache potatoes and baby carrots, then pour in the coconut cream and stir through. Bring to a simmer, cover and cook for 15 minutes, adding the baby marrow in the last 5 minutes of cooking time. 3. To make the pap, bring the water to a rapid boil in a large saucepan. Add half the maize meal and cover. Reduce the heat to medium-low and leave the pap for 8 to 10 minutes stirring occasionally. 4. Remove the lid, then stir vigorously for 1 minute to incorporate any remaining maize meal into the water. 5. Repeatedly mash the pap against the side of the saucepan using a wooden spoon for about 2 minutes to create a smooth consistency. 6. Gradually add the remaining maize meal, stir vigorously and mash again. Reduce the heat to low, cover and steam the pap for 10 to 15 minutes, stirring occasionally. 7. Check the consistency of the pap, adjust with water and mix if necessary. 8. Serve with the curry, garnished with coriander. "
+    instructions: ["Heat the oil in a large saucepan over a medium heat and sauté the onion until golden brown. Add the garlic, ginger, chilli, turmeric, curry leaves and curry paste and cook for 2 minutes.", "Add the sweet potatoes, Apache potatoes and baby carrots, then pour in the coconut cream and stir through. Bring to a simmer, cover and cook for 15 minutes, adding the baby marrow in the last 5 minutes of cooking time.", "To make the pap, bring the water to a rapid boil in a large saucepan. Add half the maize meal and cover. Reduce the heat to medium-low and leave the pap for 8 to 10 minutes stirring occasionally.", "Remove the lid, then stir vigorously for 1 minute to incorporate any remaining maize meal into the water.", "Repeatedly mash the pap against the side of the saucepan using a wooden spoon for about 2 minutes to create a smooth consistency.", "Gradually add the remaining maize meal, stir vigorously and mash again. Reduce the heat to low, cover and steam the pap for 10 to 15 minutes, stirring occasionally.", "Check the consistency of the pap, adjust with water and mix if necessary.", "Serve with the curry, garnished with coriander.",]
   },
 
   {
@@ -772,7 +783,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Preheat the oven to 220 °C. Grease and line a springform cake pan with baking paper, folding the paper around the edges. 2. Heat the cream in a saucepan. As it’s about to boil, take it off the heat and add the rooibos teabags. Steep for 8 minutes, then remove and discard the teabags. 3. In a large bowl or stand mixer, beat the castor sugar, honey and cream cheese for about 5 minutes until smooth. Mix in the salt and then add the eggs, one at a time, mixing well after each addition. 4. Whisk in the rooibos-infused cream. 5. Sift the flour into the mixture and gently fold it in. 6. Pour the batter into the prepared cake pan and bake for 25 minutes until the top is browned and looks almost burnt. Then reduce the temperature to 160 °C and bake for another 15 minutes. The centre will still be a little wobbly and might look slightly runny, but the cake is ready. "
+    instructions: ["Preheat the oven to 220 °C.", "Grease and line a springform cake pan with baking paper, folding the paper around the edges.", "Heat the cream in a saucepan. As it’s about to boil, take it off the heat and add the rooibos teabags. Steep for 8 minutes, then remove and discard the teabags.", "In a large bowl or stand mixer, beat the castor sugar, honey and cream cheese for about 5 minutes until smooth. Mix in the salt and then add the eggs, one at a time, mixing well after each addition.", "Whisk in the rooibos-infused cream.", "Sift the flour into the mixture and gently fold it in.", "Pour the batter into the prepared cake pan and bake for 25 minutes until the top is browned and looks almost burnt. Then reduce the temperature to 160 °C and bake for another 15 minutes.", "The centre will still be a little wobbly and might look slightly runny, but the cake is ready. ",]
   },
 
   {
@@ -790,7 +801,6 @@ const recipes = [
 "1 T   chia seeds",
 "sea salt, a pinch",
 
-"For the toppings: ", 
 "1/2 cup pineapple, diced", 
 "1 mango, peeled and diced (optional)", 
 "1 T fresh basil, chopped",  
@@ -799,7 +809,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Toast the rice in a medium saucepan, then add the coconut milk, water, honey or maple syrup, vanilla extract, chia seeds and salt. Bring to a simmer over a medium heat. Stir occasionally to prevent sticking and cook for 20–25 minutes, or until the rice is tender. The mixture should have thickened to a creamy consistency and the chia seeds should have expanded.  If the pudding gets too thick, add a bit more coconut milk or water to reach the desired consistency. Taste and adjust the sweetness if necessary. 2. Remove the rice pudding from the heat, allow to cool slightly, then transfer to serving bowls. Chill for at least an hour to allow it to thicken further. 3. Just before serving, add the toppings. Drizzle with a little fresh lime juice and finish with toasted coconut flakes if using. "
+    instructions: ["Toast the rice in a medium saucepan, then add the coconut milk, water, honey or maple syrup, vanilla extract, chia seeds and salt.", "Bring to a simmer over a medium heat. Stir occasionally to prevent sticking and cook for 20–25 minutes, or until the rice is tender. The mixture should have thickened to a creamy consistency and the chia seeds should have expanded.",  "If the pudding gets too thick, add a bit more coconut milk or water to reach the desired consistency.", "Taste and adjust the sweetness if necessary. Remove the rice pudding from the heat, allow to cool slightly, then transfer to serving bowls.", "Chill for at least an hour to allow it to thicken further.", "Just before serving, add the toppings. Drizzle with a little fresh lime juice and finish with toasted coconut flakes if using.",]
   },
 
   {
@@ -826,7 +836,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Beat the eggs and the sugar in a mixing bowl until light and creamy. 2. Add the oil and vanilla and beat until frothy. 3. Sift the flour and add to the mixture, then add the buttermilk. Mix well. 4. Heat the sunflower oil in a saucepan over a medium heat. Add spoonfuls of the batter to the warm oil and deep-fry the bollas in batches until golden brown all over. The number of bollas you fry per batch will depend on the size of your pan. Remove from the oil with a slotted spoon and drain on kitchen paper or in an empty egg carton. 5. To make the syrup, simmer the water, sugar, cardamom and cinnamon for 10 minutes. 6. Dip the bollas into the syrup for a few minutes, then remove using a slotted spoon. Sprinkle with desiccated coconut and serve "
+    instructions: ["Beat the eggs and the sugar in a mixing bowl until light and creamy.", "Add the oil and vanilla and beat until frothy.", "Sift the flour and add to the mixture, then add the buttermilk. Mix well.", "Heat the sunflower oil in a saucepan over a medium heat. Add spoonfuls of the batter to the warm oil and deep-fry the bollas in batches until golden brown all over. The number of bollas you fry per batch will depend on the size of your pan.", "Remove from the oil with a slotted spoon and drain on kitchen paper or in an empty egg carton.", "To make the syrup, simmer the water, sugar, cardamom and cinnamon for 10 minutes.", "Dip the bollas into the syrup for a few minutes, then remove using a slotted spoon. Sprinkle with desiccated coconut and serve. ",]
   },
 
   {
@@ -845,7 +855,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Line a loaf tin of about 12 cm x 18 cm – or any other cake tin that will fit inside your air-fryer basket – with baking paper and spray with non-stick food spray. Preheat the air-fryer to 160°C on the baking function. 2. Using an electric hand-mixer, beat the butter, sugar and eggs until light and creamy. Add the flour, lemon zest and juice, then mix until smooth. Pour the batter into the prepared tin. 3. Air-fry for 30 minutes, or until golden brown and cooked through. Allow to cool. Turn out onto a serving platter and dust with icing sugar – it needs nothing more. Slice and serve. "
+    instructions: ["Line a loaf tin of about 12 cm x 18 cm – or any other cake tin that will fit inside your air-fryer basket – with baking paper and spray with non-stick food spray. Preheat the air-fryer to 160°C on the baking function.", "Using an electric hand-mixer, beat the butter, sugar and eggs until light and creamy. Add the flour, lemon zest and juice, then mix until smooth. Pour the batter into the prepared tin.", "Air-fry for 30 minutes, or until golden brown and cooked through. Allow to cool. Turn out onto a serving platter and dust with icing sugar – it needs nothing more. Slice and serve. ",]
   },
 
   {
@@ -862,7 +872,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Slice open the amagwinya. Place a generous scoop of Tin Roof ice cream onto 4 halves. 2. Drizzle with the sauce, top with chopped nuts and sandwich with the remaining halves. "
+    instructions: ["Slice open the amagwinya. Place a generous scoop of Tin Roof ice cream onto 4 halves.", "Drizzle with the sauce, top with chopped nuts and sandwich with the remaining halves. ",]
   },
 
   {
@@ -892,7 +902,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Preheat the oven to 170°C. Sift all the dry ingredients into a bowl, then set aside. Beat the sugar and butter until light and fluffy. Add the vanilla and eggs and mix until well combined. 2. Fold the dry ingredients into the butter mixture, then add the oats and chocolate chips. Allow batter to rest for 1 hour before baking. 3. Weigh out 40 g portions of dough, shape into rounds, then pipe or spoon 1 T Caramel Treat into the centre of each round. Roll the Caramel Treat into the centre of cookie dough before baking. Place on a baking tray and bake for 10–12 minutes. 4. To make the ice-cream sandwiches, place 1–2 scoops ice cream on top of a cookie. Top with a second cookie, squeeze together to form a sandwich, then roll the edge in the crushed Fantastical chocolate bites. "
+    instructions: ["Preheat the oven to 170°C. Sift all the dry ingredients into a bowl, then set aside.", "Beat the sugar and butter until light and fluffy. Add the vanilla and eggs and mix until well combined.", "Fold the dry ingredients into the butter mixture, then add the oats and chocolate chips. Allow batter to rest for 1 hour before baking.", "Weigh out 40 g portions of dough, shape into rounds, then pipe or spoon 1 T Caramel Treat into the centre of each round. Roll the Caramel Treat into the centre of cookie dough before baking.", "Place on a baking tray and bake for 10–12 minutes.", "To make the ice-cream sandwiches, place 1–2 scoops ice cream on top of a cookie. Top with a second cookie, squeeze together to form a sandwich, then roll the edge in the crushed Fantastical chocolate bites. ",]
   },
 
   {
@@ -924,7 +934,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Preheat the oven to 160°C. Boil the milk and coffees. 2. Cream the sugars, butter and oil together in a stand mixer using the paddle attachment. 3. Slowly beat in the eggs, then add the coffee mixture. Sift the flour and baking powder together, then fold into the egg-and-coffee mixture. 4. Line a muffin pan with cupcake liners and spoon in the batter. Bake for 25–30 minutes. To make the buttercream, beat all the ingredients for 5 minutes, or until frothy. Use your desired nozzles to pipe onto the cupcakes. "
+    instructions: ["Preheat the oven to 160°C. Boil the milk and coffees.", "Cream the sugars, butter and oil together in a stand mixer using the paddle attachment.", "Slowly beat in the eggs, then add the coffee mixture. Sift the flour and baking powder together, then fold into the egg-and-coffee mixture.", "Line a muffin pan with cupcake liners and spoon in the batter. Bake for 25–30 minutes. To make the buttercream, beat all the ingredients for 5 minutes, or until frothy. Use your desired nozzles to pipe onto the cupcakes. ",]
   },
 
   {
@@ -944,7 +954,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Grease and line the base and sides of a 15 cm (6 inch) square cake tin, about 5 cm (2 inches) deep, with nonstick baking paper. 2. Place the butter and cocoa powder in a small saucepan over a low heat, stirring frequently until the butter has melted. Remove from the heat and leave to cool for 3–4 minutes. 3. Meanwhile, in a large bowl, whisk together the eggs, sugar, vanilla and salt with an electric whisk for about 2 minutes, until pale and thick. Add the cocoa and butter mixture and whisk to combine. 4. Sift the flour over the mixture and mix thoroughly, then pour into the prepared tin and level the top. Place the tin in a preheated air fryer and cook at 160°C  for 23–25 minutes, until just firm to the touch and a wooden cocktail stick inserted in the middle comes out with moist crumbs. Leave to cool in the tin before cutting into squares. "
+    instructions: ["Grease and line the base and sides of a 15 cm (6 inch) square cake tin, about 5 cm (2 inches) deep, with nonstick baking paper.", "Place the butter and cocoa powder in a small saucepan over a low heat, stirring frequently until the butter has melted. Remove from the heat and leave to cool for 3–4 minutes.", "Meanwhile, in a large bowl, whisk together the eggs, sugar, vanilla and salt with an electric whisk for about 2 minutes, until pale and thick. Add the cocoa and butter mixture and whisk to combine.", "Sift the flour over the mixture and mix thoroughly, then pour into the prepared tin and level the top. Place the tin in a preheated air fryer and cook at 160°C  for 23–25 minutes, until just firm to the touch and a wooden cocktail stick inserted in the middle comes out with moist crumbs.", "Leave to cool in the tin before cutting into squares. ",]
   },
 
   {
@@ -972,7 +982,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Preheat the oven to 180°C. Grease a 20 cm cake tin. If you have two tins, you can halve the batter to make 2 cakes. 2. Sift the flour, sugar, cocoa, bicarbonate of soda and baking powder together. Combine the eggs, buttermilk, water, oil and vanilla. 3. Add the dry ingredients to the wet ingredients and combine. Pour into the tin and bake for 30–35 minutes, or until a skewer comes out clean. 4. To make the icing, cream the butter using an electric mixer, then add the cocoa and beat until combined. Add the condensed milk and beat until fluffy. Once the cake has cooled, ice using the icing and serve. "
+    instructions: ["Preheat the oven to 180°C. Grease a 20 cm cake tin. If you have two tins, you can halve the batter to make 2 cakes.", "Sift the flour, sugar, cocoa, bicarbonate of soda and baking powder together. Combine the eggs, buttermilk, water, oil and vanilla.", "Add the dry ingredients to the wet ingredients and combine. Pour into the tin and bake for 30–35 minutes, or until a skewer comes out clean.", "To make the icing, cream the butter using an electric mixer, then add the cocoa and beat until combined. Add the condensed milk and beat until fluffy. Once the cake has cooled, ice using the icing and serve. ",]
   },
 
   {
@@ -990,7 +1000,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Cream whips best when well chilled, so pop your mixing bowl in the fridge for 10 minutes for the best whipping experience. 2. Add 2 of the 250ml tubs of cream to a mixing bowl and whip until soft peaks form. In a separate bowl, mix the Caramel Treat using an electric hand mixer – this will loosen the caramel. 3. Add a few spoons of the whipped cream to the caramel and fold through before adding the remaining whipped cream as well as 3 of the Peppermint Crisp bars that have been roughly chopped. Fold the cream and chocolate through the caramel until well combined. 4. Add some of the mixture to the bottom of a serving dish – just enough to cover the base when spread out – then add a layer of Tennis biscuits, filling any spaces in between with crushed Tennis biscuits. 5. Add more of the caramel filling, followed by another layer of biscuits. Repeat until you’ve used all the filling and biscuits. 6. Place the dish in the fridge for 6 hours to set. For the best texture, allow to set overnight. 7. Before serving, whip the remaining 250ml cream with the sugar and spread across the top of the tart. Finely slice the remaining Peppermint Crisp bar and sprinkle over the cream to garnish. Serve chilled. "
+    instructions: ["Cream whips best when well chilled, so pop your mixing bowl in the fridge for 10 minutes for the best whipping experience.", "Add 2 of the 250ml tubs of cream to a mixing bowl and whip until soft peaks form. In a separate bowl, mix the Caramel Treat using an electric hand mixer – this will loosen the caramel.", "Add a few spoons of the whipped cream to the caramel and fold through before adding the remaining whipped cream as well as 3 of the Peppermint Crisp bars that have been roughly chopped. Fold the cream and chocolate through the caramel until well combined.", "Add some of the mixture to the bottom of a serving dish – just enough to cover the base when spread out – then add a layer of Tennis biscuits, filling any spaces in between with crushed Tennis biscuits.", "Add more of the caramel filling, followed by another layer of biscuits. Repeat until you’ve used all the filling and biscuits.", "Place the dish in the fridge for 6 hours to set. For the best texture, allow to set overnight.", "Before serving, whip the remaining 250ml cream with the sugar and spread across the top of the tart. Finely slice the remaining Peppermint Crisp bar and sprinkle over the cream to garnish. Serve chilled. ",]
   },
 
   {
@@ -1011,7 +1021,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Chill 2 coupe glasses. Dip the rims in honey and dust with chilli lime salt. 2. Blend the Clemengold® mandarin fruit drink concentrate, lime juice, coconut water ice cubes and alcohol (if using) until slushy. 3. Pour into the prepared glasses and garnish with the Clemengold® and limes. "
+    instructions: ["Chill 2 coupe glasses. Dip the rims in honey and dust with chilli lime salt.", "Blend the Clemengold® mandarin fruit drink concentrate, lime juice, coconut water ice cubes and alcohol (if using) until slushy.", "Pour into the prepared glasses and garnish with the Clemengold® and limes. ",]
   },
 
   {
@@ -1028,7 +1038,7 @@ const recipes = [
 "rosé or brut Cap Classique, to serve",
 
     ],
-    instructions: " 1. To make the raspberry syrup dissolve the sugar in ½ cupboiling water. Add a handful of fresh raspberries, allow to steep, then strain. 2. Drop a knifepoint of Woolies’ edible gold glitter into a glass. Top with rosé or brut Cap Classique, then add a splash of raspberry syrup. Stir, and marvel at the pretty lights. "
+    instructions: ["To make the raspberry syrup dissolve the sugar in ½ cupboiling water. Add a handful of fresh raspberries, allow to steep, then strain.", "Drop a knifepoint of Woolies’ edible gold glitter into a glass. Top with rosé or brut Cap Classique, then add a splash of raspberry syrup. Stir, and marvel at the pretty lights. ",]
   },
 
   {
@@ -1048,7 +1058,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Fill a glass with ice cubes. 2. Drizzle the honey over the ice, then pour in the naartjie juice. 3. Pour the espresso over an upturned tablespoon, allowing the coffee to fall onto the ice cubes. 4. Top up with soda water, if using. 5 Garnish with naartjie zest or peel and a sprig of rosemary. Serve with a long spoon for mixing. "
+    instructions: ["Fill a glass with ice cubes.", "Drizzle the honey over the ice, then pour in the naartjie juice.", "Pour the espresso over an upturned tablespoon, allowing the coffee to fall onto the ice cubes.", "Top up with soda water, if using.", "Garnish with naartjie zest or peel and a sprig of rosemary. Serve with a long spoon for mixing. ",]
   },
 
   {
@@ -1066,7 +1076,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Combine light rum with fresh, strained ClemenGold juice and fresh, strained lime juice. 2. Add sugar syrup (or stir 2 t caster sugar into the mix). Shake with ice and strain into a martini glass or coupe. 3. Garnish with a thin slice of citrus or a curl of ClemenGold peel. Bombs away! Serves 1 "
+    instructions: ["Combine light rum with fresh, strained ClemenGold juice and fresh, strained lime juice.", "Add sugar syrup (or stir 2 t caster sugar into the mix). Shake with ice and strain into a martini glass or coupe.", "Garnish with a thin slice of citrus or a curl of ClemenGold peel. Bombs away!",]
   },
 
   {
@@ -1088,7 +1098,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. Heat the milk and cinnamon stick in a small pot. 2. Add the chocolate and whisk until melted. 3. Add half the Amarula, sugar and cornflour and whisk until the mixture is thick and creamy and season to taste. 4. Whip the cream with the remaining Amarula. 5. Pour the hot chocolate into two cups and dollop over the cream and sprinkle over the grated chocolate. Serve with toasty warm mini croissants for dunking. "
+    instructions: ["Heat the milk and cinnamon stick in a small pot.", "Add the chocolate and whisk until melted.", "Add half the Amarula, sugar and cornflour and whisk until the mixture is thick and creamy and season to taste.", "Whip the cream with the remaining Amarula.", "Pour the hot chocolate into two cups and dollop over the cream and sprinkle over the grated chocolate. Serve with toasty warm mini croissants for dunking.",]
   },
 
   {
@@ -1109,7 +1119,7 @@ const recipes = [
 
 
     ],
-    instructions: " 1. To make the ginger beer, pour 2 cups water into a saucepan. Add the sugar and dissolve over a low heat, stirring regularly. Add the ginger, cream of tartar, raisins, pineapple peel and the remaining water. Simmer for 10 minutes. 2. Allow to cool (about an hour), then stir in the yeast. Cover and leave to stand overnight. Strain through a sieve into a 2-litre bottle and chill before serving. 3. Pour the chilled ginger beer into tall glasses and carefully top with a scoop of ice cream – two, if you’re feeling indulgent. "
+    instructions: ["To make the ginger beer, pour 2 cups water into a saucepan. Add the sugar and dissolve over a low heat, stirring regularly.", "Add the ginger, cream of tartar, raisins, pineapple peel and the remaining water. Simmer for 10 minutes.", "Allow to cool (about an hour), then stir in the yeast. Cover and leave to stand overnight.", "Strain through a sieve into a 2-litre bottle and chill before serving.", "Pour the chilled ginger beer into tall glasses and carefully top with a scoop of ice cream – two, if you’re feeling indulgent.",]
   },
 
   {
@@ -1126,7 +1136,7 @@ const recipes = [
 
 
     ],
-    instructions: "1. Heat the sugar and water in a saucepan over medium heat, stirring until the sugar dissolves. Set aside to cool. 2. Blend the kiwiberries with lemon juice and cooled sugar syrup until smooth. 3. Churn in an ice-cream machine according to the manufacturer’s instructions. If you do not have an ice-cream machine, freeze for 30–45 minutes, then use a fork to stir and break up any ice crystals. Repeat every 30 minutes for about 3–4 hours, or until the sorbet is smooth and scoopable. 4. Transfer to a container and freeze for at least 2 hours before serving."
+    instructions: ["Heat the sugar and water in a saucepan over medium heat, stirring until the sugar dissolves. Set aside to cool.", "Blend the kiwiberries with lemon juice and cooled sugar syrup until smooth.", "Churn in an ice-cream machine according to the manufacturer’s instructions. If you do not have an ice-cream machine, freeze for 30–45 minutes, then use a fork to stir and break up any ice crystals. Repeat every 30 minutes for about 3–4 hours, or until the sorbet is smooth and scoopable.", "Transfer to a container and freeze for at least 2 hours before serving.",]
   },
 
 
