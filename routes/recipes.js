@@ -6,7 +6,7 @@ const recipes = require("../data/recipes");
 router.get("/", (req, res) => {
   const fullRecipes = recipes.map(recipe => ({
     ...recipe,
-    image: `http://localhost:5000${recipe.image}`, // Image served from public/images
+    image: `https://myfoodify-backend.onrender.com${recipe.image}`, // Image served from public/images
   }));
   res.json(fullRecipes);
 });
@@ -19,7 +19,7 @@ router.get("/:id", (req, res) => {
   // Add full image URL to the individual recipe
   const fullRecipe = {
     ...recipe,
-    image: `http://localhost:5000${recipe.image}`, // Image served from public/images
+    image: `https://myfoodify-backend.onrender.com${recipe.image}`, // Image served from public/images
   };
   
   res.json(fullRecipe);

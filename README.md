@@ -38,7 +38,9 @@ PORT=5000
 ```sh
 npm start
 ```
-The backend will run on `http://localhost:5000`.
+## Backend with data:
+https://myfoodify-backend.onrender.com/api/recipes 
+
 
 ## API Endpoints
 | Method | Endpoint          | Description            |
