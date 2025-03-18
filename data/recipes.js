@@ -1139,6 +1139,378 @@ const recipes = [
     instructions: ["Heat the sugar and water in a saucepan over medium heat, stirring until the sugar dissolves. Set aside to cool.", "Blend the kiwiberries with lemon juice and cooled sugar syrup until smooth.", "Churn in an ice-cream machine according to the manufacturer’s instructions. If you do not have an ice-cream machine, freeze for 30–45 minutes, then use a fork to stir and break up any ice crystals. Repeat every 30 minutes for about 3–4 hours, or until the sorbet is smooth and scoopable.", "Transfer to a container and freeze for at least 2 hours before serving.",]
   },
 
+{
+ id: 48,
+ name: "Cheddar and basil muffins",
+ category: "Breakfast/Lunch" ,
+image: "/images/Cheddar-and-basil-muffins.jpg",
+ ingredients: [
+  "200 g flour",
+  "3 t baking powder",
+  "1 t salt",
+  "2 t mustard powder",
+  "1 t smoked paprika",
+  "2 cups strong Cheddar, grated, plus extra for sprinkling",
+  "½ cup feta, loosely crumbled, plus extra for sprinkling",
+  "½ cup basil, finely chopped",
+  "1 extra-large free-range egg",
+  "5 T soda water",
+  "80 ml milk",
+  "4 T oil",
+  "butter, for serving",
+ ],
+
+ instructions : [
+  "Preheat the oven to 180°C. Place the dry ingredients into a mixing bowl and stir with a wooden spoon. Mix the wet ingredients in a separate bowl. Add the wet ingredients to the dry ingredients and stir lightly, taking care not to overmix.",
+
+  "Place cupcake holders into a 12-hole muffin pan and spoon in the batter.",
+  
+  "Sprinkle over a little extra Cheddar and feta.",
+  
+  "Bake for 20–25 minutes, or until a skewer comes out clean. Serve warm with butter.",
+ ],
+
+},
+
+{
+  id: 49,
+  name: "Salami-stuffed baked potatoes",
+  category: "Dinner",
+  image: "/images/salami-stuffed-cheesy-baked-potatoes.jpg",
+  ingredients: [
+    "4-6 large potatoes",
+    "2 T olive oil",
+    "sea salt and freshly ground black pepper, to taste",
+    "85 g Woolworths smoked spicy salami sticks, chopped",
+    "85 g Woolworths pepperoni salami sticks, chopped",
+    "100 g Woolworths Blue Rock cheese",
+    "2 cups Woolwortsh Grated Mature Cheddar Cheese",
+    "2 leeks, sliced",
+    "2 T olive oil",
+    "100 g butter",
+    "1-2 fresh bay leaves",
+    "1 lemon, juiced",
+    "Woolworths pickled red onion petals, for serving",
+    "chilli flakes, for serving",
+  ],
+ 
+  instructions : [
+    "Place the potatoes in a roasting pan and make 4–5 incisions into each one, taking care not to slice all the way through.",
+    "Drizzle with olive oil and season. Roast in a preheated air-fryer at 180°C for 15–20 minutes, or until half-cooked.",
+    "Mix the salami sticks with the cheese and leeks. Combine with the olive oil.",
+   "Spoon into the potatoes, then return to the air-fryer for a further 5–8 minutes, or until the cheese has melted.",
+    "Heat the butter and bay leaves in a small pan. Swirl until foamy and nutty. Add the lemon juice, then pour over the potatoes.",
+    "To serve, top with the pickled onions and chilli flakes.",
+  ],
+ 
+ },
+
+ {
+  id: 50,
+  name: "Mini mac-and-cheese cups",
+  category: "Dinner" ,
+  image: "/images/mini-mac-and-cheese-cups.jpg",
+  ingredients: [
+    "500 g macaroni, cooked al dente",
+    "85 g Woolworths smoked salami sticks, chopped",
+    "150 g Woolworths Ayrshire pearl mozzarella",
+    "2½ cups Woolwortsh Grated Mature Cheddar Cheese",
+    "4 T Parmesan, finely grated",
+    "2 T Italian parsley, roughly chopped",
+    "sea salt and freshly ground black pepper, to taste",
+    "3 cups plain double-cream yogurt",
+    "4 free-range eggs",
+    "100 g Woolworths Rosa tomatoes, sliced into thirds",
+  ],
+ 
+  instructions : [
+    "Preheat the oven to 180°C.",
+
+    "Combine the macaroni, salami sticks, cheese, herbs and seasoning in a large mixing bowl.",
+    
+    "Mix the yoghurt and eggs in a separate bowl or jug. Stir through the pasta-and-cheese mixture.",
+    
+    "Spoon into a silicone muffin tray, filling the cups halfway. Add a few slices of tomato and top with another spoonful of macaroni.",
+    
+    "Bake for 12–15 minutes, or until slightly golden and set.",
+    
+    "Serve with salad or chopped veggie sticks for an easy lunch, or freeze.",
+  ],
+ 
+ },
+
+ {
+  id: 51,
+  name: "Creamy muhalabiya with mango sauce",
+  category: "Dessert" ,
+  image: "/images/Creamy-muhalabiya-with-mango-sauce.jpg",
+  ingredients: [
+    "50 g cornflour",
+    "1 litre full-cream milk",
+    "100 g white sugar",
+    "1 T rose water",
+    "1 t vanilla essence", 
+    "ground pistachios, to garnish",
+    "dried rose petals, to garnish",
+    "1 ripe mango",
+    "50 g sugar",
+    "1⁄3 cup water",  
+    "1 T corn flour",
+    "Chopped pistachios, to serve",
+    "Dried rose petals, to serve",
+  ],
+ 
+  instructions : [
+  "In a saucepan, whisk the cornflour into the milk until completely dissolved.", 
+    "Add the sugar, rose water and vanilla and mix. Place over a medium heat and simmer until thick, about 10 minutes.",
+    "Divide between glasses and set in the fridge for 1-2 hours.",
+"To make the mango sauce, blend the mango, sugar, cornflour and water. Place in a saucepan and bring to a boil. Cool completely, then spoon onto the pudding. Garnish with the nuts and rose petals.",
+  ],
+ 
+ },
+
+ {
+  id: 52,
+  name: "Easy drop doughnuts",
+  category: "Dessert" ,
+  image: "/images/Easy-drop-doughnuts.jpg",
+  ingredients: [
+    "1 free-range egg ",
+    "50 g sugar",
+    "1/2 cup buttermilk",
+    "1 t vanilla",
+    "1 T ghee or melted butter",
+    "¼ cup milk",  
+    "120 g flour",
+    "1 ½ t baking powder",
+    "vegetable oil, for deep-frying",
+    "200 g Woolworths 27 % cocoa milk chocolate drops",
+    "¼ cup milk",  
+    "60 g Woolworths cinnamon sugar", 
+    "strawberries or raspberries, for serving", 
+  ],
+ 
+  instructions : [
+  "Whisk together the wet ingredients, then add the dry ingredients and incorporate to make a smooth batter.",
+  "Heat the oil in a saucepan. Using your fingertips or a spoon, drop spoonfuls of dough into the oil and fry until golden brown. Drain on kitchen paper. Toss in the cinnamon sugar while still warm.",
+  "To make the chocolate sauce, heat the milk, then pour over the chocolate drops. Stir until melted and smooth. Serve the doughnuts with the sauce and berries.",
+  ],
+ 
+ },
+
+ {
+  id: 53,
+  name: "Sweet vermicelli dessert with toasted almonds",
+  category: "Dessert" ,
+  image: "/images/Sweet-vermicelli-dessert-with-toasted-almonds.jpg",
+  ingredients: [
+    "125 g salted butter ",
+    "2 finger-length cinnamon sticks",  
+    "250 g vermicelli, slightly crumbled",
+    "a small pinch of salt",
+    "boiling hot water",  
+    "½ x 385 g can condensed milk",
+    "1 t vanilla essence", 
+    "2 T golden sultanas",
+    "½ t ground cardamom",
+    "almond flakes toasted, to garnish", 
+    "½ cup cream, for serving",
+  ],
+ 
+  instructions : [
+    "Melt the butter in a nonstick saucepan with a lid over a medium heat, then add the cinnamon sticks. Add the vermicelli and salt and toast until lightly golden. Take care not to crush or burn.",
+   "Mix the boiling water with the condensed milk and vanilla, then add to the vermicelli. It will make a sizzling sound and create lots of steam, so be careful. Add the sultanas and cardamom, stir and cover with the lid. The idea is to capture the steam inside the saucepan.",
+  "Reduce the heat to low and allow the liquid to slowly absorb. Turn off the heat after 5 minutes and allow to stand with the lid on. Do not lift the lid.",
+  "Stir gently with a fork to detangle the vermicelli. You can sweeten it by adding a little sugar or more condensed milk if you like.",
+  "To serve, spoon about 3 T into a dessert bowl and garnish with a sprinkle of toasted almonds and a small dollop of cream.",
+  ],
+ 
+ },
+
+ {
+  id: 54,
+  name: "Date-and-coconut bars",
+  category: "Dessert" ,
+  image: "/images/Date-and-coconut-bars.jpg",
+  ingredients: [
+    "125 g butter",
+    "110 g caster sugar",
+    "1 t vanilla essence",
+    "½ t ground cinnamon",
+    "150 g Woolworths Medjool dates, pitted and chopped",
+    "150 g Marie biscuits, roughly crushed",
+    "30 g pistachios, chopped (optional)",
+    "45 g desiccated coconut",
+  ],
+ 
+  instructions : [
+    "Heat the butter, sugar, vanilla and cinnamon in a saucepan over a low heat. Stir with a wooden spoon until the sugar has dissolved completely, taking care not to burn the sugar.",
+
+   " Add the dates and stir gently until the mixture comes together, about 2 minutes. Add the pistachios, if using. Remove from the heat, then gently stir in the Marie biscuits.",
+    
+   "Line a non-stick loaf tin with baking paper and spray with nonstick cooking spray. Sprinkle some of the coconut into the base of the pan.",
+    "Press the mixture into the tin using the back of a spoon as evenly as possible. Sprinkle over the remaining coconut and gently press down into the dates. Allow to cool completely, then chill for at least 3–4 hours to set. Remove from the fridge, allow to come to room temperature for 15–20 minutes, then slice to serve.",
+  ],
+ 
+ },
+
+ {
+  id: 55,
+  name: "Aperol Spritz",
+  category: "Drinks" ,
+  image: "/images/Aperol-Spritz.jpg",
+  ingredients: [
+    "90 ml Prosecco, chilled",
+    "60 ml Aperol",
+    "30 ml soda water, chilled",
+    "2 orange slices, to garnish",
+  ],
+ 
+  instructions : [
+    "Divide the ingredients between 2 glasses and garnish with the orange slices.",
+  ],
+ 
+ },
+
+ {
+  id: 56,
+  name: "Strawberry spritz",
+  category: "Drinks" ,
+  image: "/images/Strawberry-spritz.jpg",
+  ingredients: [
+    "3 T Woolworths Non-alcoholic Strawberry Daiquiri Fruit Drink Concentrate",
+    "6 T Aperol® spirit cooler",
+    "150 ml Prosecco",
+    "4 T soda water",
+    "ice",
+    "strawberries and watermelon, to garnish",
+  ],
+ 
+  instructions : [
+    "Fill a cocktail shaker with ice. Add Strawberry Daiquiri Fruit Drink Concentrate and Aperol® and shake. Add the Prosecco and stir gently to combine.",
+    "Place a large ice block into 2 glasses. Pour over ice and top with soda water.",
+    "Garnish with fresh strawberries and a wedge of watermelon.",
+  ],
+ 
+ },
+
+ {
+  id: 57,
+  name: "Corona® Cero lime granita cocktails",
+  category: "Drinks" ,
+  image: "/images/Corona-Cero-lime-granita-cocktail.jpg",
+  ingredients: [
+    "100 g sugar",
+    "1½ cup water",
+    "5 limes, juiced (and 1 lime zested)",
+    "4 x 355 ml bottles Corona® Cero, chilled",
+    "lime wedges and curls, for serving",
+  ],
+ 
+  instructions : [
+    "Place the sugar and water in a saucepan and simmer until the sugar has melted. Set aside to cool. Add the lime juice and zest and pour into a baking tray.",
+
+    "Place in the freezer for 30 minutes, or until ice crystals start to form. Use a fork to break up the crystals to achieve a slush-like texture. Repeat 3 times until frozen.",
+    
+    "Pour the contents of 2 bottles of Corona® Cero into a baking tray. Place in the freezer for 30 minutes, or until ice crystals start to form. Using a fork break up the ice to achieve a slush-like texture. Repeat 3 times until frozen.",
+    
+    "To serve, spoon the granitas into glasses and top with the remaining Corona® Cero. Garnish with the lime wedges and curls.",
+  ],
+ 
+ },
+ {
+  id: 58,
+  name: "The grape smash",
+  category: "Drinks" ,
+  image: "/images/The-grape-smash.jpg",
+  ingredients: [
+    "a handful of fresh, halved red grapes",
+    "1 lime, quartered",
+    "60 ml tequila or white rum",
+    "20 ml simple syrup",
+    "sprigs of fresh mint, to taste",
+    "sparkling water, optional",
+  ],
+ 
+  instructions : [
+    "Place the grapes in a shaker and add lime, tequila or white rum, simple syrup and a couple of sprigs of fresh mint.",
+    "Muddle well – you want the grapes to release their flavour and the skins to add pink colour to the juice.",
+    "Shake with ice until chilled, then strain into a tumbler filled with ice. Garnish with fresh mint and more halved grapes.",
+    "Top with sparkling water if a taller, less sweet, drink is more to your liking.",
+  ],
+ 
+ },
+
+ {
+  id: 59,
+  name: "Gemere",
+  category: "Drinks" ,
+  image: "/images/Gemere.jpg",
+  ingredients: [
+    "300 g ground ginger",
+    "20 litres cold water",
+    "300 g cream of tartar",
+    "100 g tartaric acid",
+    "2.25 kg brown sugar",
+  ],
+ 
+  instructions : [
+    "In a pot, bring the ground ginger and 1.5 litres of water to a boil.",
+
+    "Mix the other dry ingredients together in a 20L bucket, then pour the boiling ginger water into the bucket and stir to combine. Top up with the remaining cold water, stir well and leave to brew overnight at room temperature. Serve chilled.",
+    
+    
+    "• Serve as a welcome drink, or pour into jugs and place around the dinner table for your guests to enjoy.  • For a real South African festive feel, serve with homemade scones and biscuits. This is a love language! • If you are in your mixologist era, a shot of gin or tequila will result in the perfect cocktail.",
+    
+    
+  ],
+ 
+ },
+
+//  {
+//   id: 60,
+//   name: "",
+//   category: "" ,
+//   image: "",
+//   ingredients: [
+ 
+//   ],
+ 
+//   instructions : [
+ 
+//   ],
+ 
+//  },
+
+//  {
+//   id: 61,
+//   name: "",
+//   category: "" ,
+//   image: "",
+//   ingredients: [
+ 
+//   ],
+ 
+//   instructions : [
+ 
+//   ],
+ 
+//  },
+
+//  {
+//   id: 62,
+//   name: "",
+//   category: "" ,
+//   image: "",
+//   ingredients: [
+ 
+//   ],
+ 
+//   instructions : [
+ 
+//   ],
+ 
+//  },
 
 
 
