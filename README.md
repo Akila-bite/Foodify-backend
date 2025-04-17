@@ -41,9 +41,6 @@ npm start
 ## Backend with data:
 https://myfoodify-backend.onrender.com/api/recipes 
 
-## Deployed Frontend 
-
-https://foodify-bh9yhi411-akilas-projects-fa44ae48.vercel.app/
 
 
 ## API Endpoints
